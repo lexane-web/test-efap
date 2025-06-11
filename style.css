@@ -338,7 +338,7 @@ body {
   padding: 40px;
   background-color: #f8f4ec;
   flex-wrap: wrap;
-  font-family: 'figtree';
+  font-family: "figtree";
 }
 
 .footer-left ul {
@@ -407,4 +407,5 @@ body {
   text-decoration: underline;
   color: inherit;
 }
+
 
